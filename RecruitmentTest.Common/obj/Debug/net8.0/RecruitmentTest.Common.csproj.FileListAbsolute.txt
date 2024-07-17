@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Common\bin\Debug\net8.0\RecruitmentTest.Common.deps.json
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Common\bin\Debug\net8.0\RecruitmentTest.Common.dll
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Common\bin\Debug\net8.0\RecruitmentTest.Common.pdb
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Common\obj\Debug\net8.0\RecruitmentTest.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Common\obj\Debug\net8.0\RecruitmentTest.Common.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Common\obj\Debug\net8.0\RecruitmentTest.Common.AssemblyInfo.cs
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Common\obj\Debug\net8.0\RecruitmentTest.Common.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Common\obj\Debug\net8.0\RecruitmentTest.Common.sourcelink.json
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Common\obj\Debug\net8.0\RecruitmentTest.Common.dll
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Common\obj\Debug\net8.0\refint\RecruitmentTest.Common.dll
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Common\obj\Debug\net8.0\RecruitmentTest.Common.pdb
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Common\obj\Debug\net8.0\ref\RecruitmentTest.Common.dll

@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTask.Domain\bin\Debug\net8.0\RecruitmentTask.Domain.deps.json
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTask.Domain\bin\Debug\net8.0\RecruitmentTask.Domain.dll
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTask.Domain\bin\Debug\net8.0\RecruitmentTask.Domain.pdb
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTask.Domain\obj\Debug\net8.0\RecruitmentTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTask.Domain\obj\Debug\net8.0\RecruitmentTask.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTask.Domain\obj\Debug\net8.0\RecruitmentTask.Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTask.Domain\obj\Debug\net8.0\RecruitmentTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTask.Domain\obj\Debug\net8.0\RecruitmentTask.Domain.sourcelink.json
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTask.Domain\obj\Debug\net8.0\RecruitmentTask.Domain.dll
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTask.Domain\obj\Debug\net8.0\refint\RecruitmentTask.Domain.dll
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTask.Domain\obj\Debug\net8.0\RecruitmentTask.Domain.pdb
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTask.Domain\obj\Debug\net8.0\ref\RecruitmentTask.Domain.dll

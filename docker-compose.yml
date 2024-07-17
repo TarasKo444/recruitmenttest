@@ -1,0 +1,8 @@
+﻿services:
+  recruitmenttest.api:
+    image: recruitmenttest.api
+    ports:
+      - "5190:8080"
+    build:
+      context: .
+      dockerfile: RecruitmentTest.Api/Dockerfile

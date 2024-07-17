@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\bin\Debug\net8.0\RecruitmentTest.Application.deps.json
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\bin\Debug\net8.0\RecruitmentTest.Application.dll
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\bin\Debug\net8.0\RecruitmentTest.Application.pdb
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\bin\Debug\net8.0\RecruitmentTest.Common.dll
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\bin\Debug\net8.0\RecruitmentTest.Common.pdb
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\obj\Debug\net8.0\RecruitmentTest.Application.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\obj\Debug\net8.0\RecruitmentTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\obj\Debug\net8.0\RecruitmentTest.Application.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\obj\Debug\net8.0\RecruitmentTest.Application.AssemblyInfo.cs
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\obj\Debug\net8.0\RecruitmentTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\obj\Debug\net8.0\RecruitmentTest.Application.sourcelink.json
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\obj\Debug\net8.0\Recruitm.E891717E.Up2Date
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\obj\Debug\net8.0\RecruitmentTest.Application.dll
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\obj\Debug\net8.0\refint\RecruitmentTest.Application.dll
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\obj\Debug\net8.0\RecruitmentTest.Application.pdb
+C:\Users\admin\Desktop\task\recruitmenttest\RecruitmentTest.Application\obj\Debug\net8.0\ref\RecruitmentTest.Application.dll
