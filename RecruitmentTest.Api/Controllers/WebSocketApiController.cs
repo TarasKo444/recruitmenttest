@@ -16,7 +16,7 @@ namespace RecruitmentTest.Api.Controllers
             _authService = authService;
         }
 
-        [Route("api/ws")]
+        [HttpGet("api/ws")]
         public async Task Get(
             [FromQuery] string instrumentId,
             [FromQuery] string provider,
